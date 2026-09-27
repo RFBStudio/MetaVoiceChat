@@ -1,0 +1,15 @@
+{
+  "name": "net.metater.metavoicechat",
+  "displayName": "MetaVoiceChat",
+  "version": "4.3.0",
+  "unity": "2022.3",
+  "description": "Self-contained proximity voice chat for Unity with support for many networking libraries. UPM packaging of upstream MetaVoiceChat v4.3.",
+  "author": {
+    "name": "Metater",
+    "url": "https://github.com/Metater"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/Metater/MetaVoiceChat",
+  "changelogUrl": "https://github.com/Metater/MetaVoiceChat/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Metater/MetaVoiceChat/blob/main/LICENSE"
+}
